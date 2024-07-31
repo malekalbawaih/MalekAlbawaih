@@ -23,7 +23,7 @@
 - Cloud Computing Services: `Google Cloud (GCP)` / `Vultr`
 - Additional features: `SEO`
 
-- 💿 How to hire me: [Freelancer](https://www.freelancer.com/u/albawaih "Hire me in Freelancer website")
+- 💿 How to hire me: [Freelancer](https://www.freelancer.com/u/albawaih "Hire me on Freelancer website")
 - 📫 How to reach me: malek.albawaih@gmail.com
 
 ---
