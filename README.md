@@ -11,7 +11,7 @@
 - Websites Design
 
 ## My skills include:
-- Programing languages: HTML / CSS / SCSS / JavaScript / TypeScript
+- Programing languages: `HTML` / `CSS` / `SCSS` / `JavaScript` / `TypeScript`
 - Front-end: React JS / Material UI /Bootstrap / Tailwind CSS
 - Back-end: Firebase / Node JS / Next JS / Express JS /JSON
 - Database: Firestore / MongoDB
