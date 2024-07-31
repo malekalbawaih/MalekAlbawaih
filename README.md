@@ -12,16 +12,16 @@
 
 ## My skills include:
 - Programing languages: `HTML` / `CSS` / `SCSS` / `JavaScript` / `TypeScript`
-- Front-end: React JS / Material UI /Bootstrap / Tailwind CSS
-- Back-end: Firebase / Node JS / Next JS / Express JS /JSON
-- Database: Firestore / MongoDB
-- authentication: JWT / Firebase Auth
-- APIs: REST API
-- stacks: MERN
-- UI / UX design: Figma
-- Version Control: Git / GitHub
-- Cloud Computing Services: Google Cloud (GCP) / Vultr
-- Additional features: SEO (search engine optimization)
+- Front-end: `React JS` / `Material UI` / `Bootstrap` / `Tailwind CSS`
+- Back-end: `Firebase` / `Node JS` / `Next JS` / `Express JS` / `JSON`
+- Database: `Firestore` / `MongoDB`
+- authentication: `JWT` / `Firebase Auth`
+- APIs: `REST API`
+- stacks: `MERN`
+- UI / UX design: `Figma`
+- Version Control: `Git` / `GitHub`
+- Cloud Computing Services: `Google Cloud (GCP)` / `Vultr`
+- Additional features: `SEO`
 
 - 📫 How to reach me: malek.albawaih@gmail.com
 
