@@ -1,5 +1,5 @@
-### Hi there 👋, my name is Malek
-### I am freelance full-stack web developer and  designer
+### Hi there 👋, my name is Malek ☺️
+### I am freelance full-stack web developer and designer 🖥️
 
 ![I am freelance full-stack web developer and  designer](https://raw.githubusercontent.com/malekalbawaih/MalekAlbawaih/main/Malek%20Albawaih%20Banner.png)
 
