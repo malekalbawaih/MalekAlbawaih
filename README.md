@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is Malek ☺️
 ### I am freelance 
 
-![I am freelance full-stack web developer and  designer](https://raw.githubusercontent.com/malekalbawaih/MalekAlbawaih/main/Malek%20Albawaih%20Banner.png)
+![I am freelance full-stack web developer and  designer](https://raw.githubusercontent.com/malekalbawaih/MalekAlbawaih/main/MalBanner.png)
 
 - I 
 
