@@ -1,27 +1,15 @@
 ### Hi there 👋, my name is Malek ☺️
-### I am freelance full-stack web developer and designer 🖥️
+### I am freelance 
 
 ![I am freelance full-stack web developer and  designer](https://raw.githubusercontent.com/malekalbawaih/MalekAlbawaih/main/Malek%20Albawaih%20Banner.png)
 
-- I turn your ideas into Application, enhance existing Application or help to fix problems.
-- I can code from scratch or convert figma design into full functional application.
+- I 
 
 ## Specializations:
-- Websites Development
-- Websites Design
+- 
 
 ## My skills include:
-- Programing languages: `HTML` / `CSS` / `SCSS` / `JavaScript` / `TypeScript`
-- Front-end: `React JS` / `Material UI` / `Bootstrap` / `Tailwind CSS`
-- Back-end: `Firebase` / `Node JS` / `Next JS` / `Express JS` / `JSON`
-- Database: `Firestore` / `MongoDB`
-- authentication: `JWT` / `Firebase Auth`
-- APIs: `REST API`
-- stacks: `MERN`
-- UI / UX design: `Figma`
-- Version Control: `Git` / `GitHub`
-- Cloud Computing Services: `Google Cloud (GCP)` / `Vultr`
-- Additional features: `SEO`
+- 
 
 - 💿 How to hire me: [Freelancer](https://www.freelancer.com/u/albawaih "Hire me on Freelancer website")
 - 📫 How to reach me: malek.albawaih@gmail.com
