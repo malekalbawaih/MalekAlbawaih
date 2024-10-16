@@ -1,12 +1,17 @@
 ### Hi there 👋, my name is Malek ☺️
-### I am freelance 
+### I am freelance 3D artist for Game development
 
 ![I am freelance full-stack web developer and  designer](https://raw.githubusercontent.com/malekalbawaih/MalekAlbawaih/main/MalBanner.png)
 
 - I 
 
 ## Specializations:
-- 
+- 3D Art
+- Game development
+
+## Programs:
+- Blender
+- Unreal Engine 5
 
 ## My skills include:
 - 
